@@ -9,7 +9,7 @@ import io.th0rgal.oraxen.utils.actions.impl.other.SoundAction;
 import me.gabytm.util.actions.placeholders.PlaceholderProvider;
 import me.gabytm.util.actions.spigot.actions.SpigotActionManager;
 import me.gabytm.util.actions.spigot.placeholders.PlaceholderAPIProvider;
-import org.apache.commons.lang3.StringUtils;
+import org.apache.commons.lang.StringUtils;
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.java.JavaPlugin;
 import org.jetbrains.annotations.NotNull;
